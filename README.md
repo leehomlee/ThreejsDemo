@@ -1,3 +1,3 @@
-Three.js Demo
+﻿Three.js Demo
 
-WebGLѧϰ��ַ��http://www.hewebgl.com
+WebGL学习地址：http://www.hewebgl.com
